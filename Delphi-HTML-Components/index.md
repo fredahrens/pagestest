@@ -1,0 +1,3 @@
+# Delphi HTML Components
+
+This section collects tips and tricks for the Delphi HTML Component library (https://delphihtmlcomponents.com/).
