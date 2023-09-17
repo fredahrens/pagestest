@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://docs.fred-ahrens.de/sitemap.xml.gz
