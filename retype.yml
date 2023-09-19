@@ -3,7 +3,6 @@ output: .retype
 url: https://docs.fred-ahrens.de
 branding:
   title: Documents
-  label: &1050257712 Docs
 meta:
   title: " - docs.fred-ahrens.de"    
 footer:
